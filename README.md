@@ -6,6 +6,7 @@ Walk the same street over and over. Spot a glitch (a black cat walking by twice,
 
 Two modes, picked by pill:
 - Blue pill, Loop mode: six sectors, then answer the ringing phone.
+- Red pill, The Ending: a 3-chapter story. Two Worlds (race the hall to the phone while machines cut into your ship), Awakening (freeze bullets, send them back, break the Agents), Final Call (make the call, then fly over the city waking people).
 - Red pill, Trace mode: Operators trace your real body while you feed them glitches. At 100% a hardline phone rings somewhere in the loop: reach it before the Agents cut the line. Hunters scan the halls with red beams, and Code Sight (C) shows you the code for 3 seconds.
 
 Inspired by The Matrix and The Exit 8. Not affiliated with or endorsed by their makers. All art, characters, and sounds are original.

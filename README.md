@@ -13,6 +13,6 @@ Inspired by The Matrix and The Exit 8. Not affiliated with or endorsed by their 
 - Play in your browser: https://buggygamesyt.github.io/dejaglitch/
 - Android: grab `DejaGlitch.apk` from the latest release.
 
-Controls: ← → / A D walk, ↑ / W jump, hold Space / Shift for slow-mo, C Code Sight. Agent difficulty (Normal, Easy, Chill) and Agent shooting on/off are on the pill screen; P pause, M mute. On a phone: on-screen buttons.
+Controls: ← → / A D walk, ↑ / W jump, hold Shift / R (or RUN) to run, hold Space for slow-mo, C Code Sight. Agent difficulty (Normal, Easy, Chill) and Agent shooting on/off are on the pill screen; P pause, M mute. On a phone: on-screen buttons.
 
 © 2026 Buggy Games YT. All rights reserved. See LICENSE.
